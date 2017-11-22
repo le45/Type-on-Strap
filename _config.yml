@@ -9,7 +9,7 @@ theme_settings:
   avatar: assets/img/le45.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "Bougez autrement" # used by search engines
+  description: "Changez d'approche pour vos sortie en montagne" # used by search engines
 
   # Header and footer text
   header_text: >
