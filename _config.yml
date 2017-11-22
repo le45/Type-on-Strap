@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: ""
 url: "https://le45.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -13,17 +13,15 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Le transport est la principale source d’émission de gaz à effet de serre, dans le secteur du tourisme,
- notamment de montagne</p>
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
- Le principe est simple, suivre au plus pres le 45eme parralelle en utilisant uniquement des modes de deplacement doux (marche, velo, kayak, parapente,..)
-
-  header_text_feature_image: assets/img/pexels/le45home.jpeg
+     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
-  rss: true
+  rss: false
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
