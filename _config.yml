@@ -5,7 +5,7 @@ url: "https://le45.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Le 45 - Une invitation à voyage sans moteur
+  title: Le 45 
   avatar: assets/img/le45.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -13,8 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Le transport est la principale source d émission de gaz à effet de serre, dans le secteur du tourisme,
- notamment de montagne</p>
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
      <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image: assets/img/pexels/le45home.jpeg
