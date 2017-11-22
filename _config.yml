@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: ""
 url: "https://le45.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -23,7 +23,7 @@ theme_settings:
    Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 
   # Icons
-  rss: true
+  rss: false  
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
