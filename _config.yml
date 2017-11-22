@@ -5,7 +5,7 @@ url: "https://le45.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Le 45 
+  title: "Le 45, partez a l'aventure sans voiture"
   avatar: assets/img/le45.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
