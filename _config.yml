@@ -13,15 +13,17 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Le transport est la principale source d’émission de gaz à effet de serre, dans le secteur du tourisme,
+ notamment de montagne</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+ Le principe est simple, suivre au plus pres le 45eme parralelle en utilisant uniquement des modes de deplacement doux (marche, velo, kayak, parapente,..)
+
   header_text_feature_image: assets/img/pexels/le45home.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/le45/">Github</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 
   # Icons
-  rss: false
+  rss: true
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
